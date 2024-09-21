@@ -3,5 +3,5 @@
 ## 设计模式
 * 发布订阅模式：[手撕一个发布订阅模式吧](https://github.com/Rika-L/handwritten-publish-subscribe)
 ## JAVASCRIPT
-
+* 手写Promise：[手写一个promise](https://github.com/Rika-L/handwritten-promise)
 ## VUEJS
